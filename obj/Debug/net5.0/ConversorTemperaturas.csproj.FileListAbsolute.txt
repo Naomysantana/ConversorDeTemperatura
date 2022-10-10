@@ -1,0 +1,16 @@
+C:\Users\Samsung\ConversorTemperaturas\obj\Debug\net5.0\ConversorTemperaturas.csproj.AssemblyReference.cache
+C:\Users\Samsung\ConversorTemperaturas\obj\Debug\net5.0\ConversorTemperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\ConversorTemperaturas\obj\Debug\net5.0\ConversorTemperaturas.AssemblyInfoInputs.cache
+C:\Users\Samsung\ConversorTemperaturas\obj\Debug\net5.0\ConversorTemperaturas.AssemblyInfo.cs
+C:\Users\Samsung\ConversorTemperaturas\obj\Debug\net5.0\ConversorTemperaturas.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\ConversorTemperaturas\bin\Debug\net5.0\ConversorTemperaturas.exe
+C:\Users\Samsung\ConversorTemperaturas\bin\Debug\net5.0\ConversorTemperaturas.deps.json
+C:\Users\Samsung\ConversorTemperaturas\bin\Debug\net5.0\ConversorTemperaturas.runtimeconfig.json
+C:\Users\Samsung\ConversorTemperaturas\bin\Debug\net5.0\ConversorTemperaturas.runtimeconfig.dev.json
+C:\Users\Samsung\ConversorTemperaturas\bin\Debug\net5.0\ConversorTemperaturas.dll
+C:\Users\Samsung\ConversorTemperaturas\bin\Debug\net5.0\ref\ConversorTemperaturas.dll
+C:\Users\Samsung\ConversorTemperaturas\bin\Debug\net5.0\ConversorTemperaturas.pdb
+C:\Users\Samsung\ConversorTemperaturas\obj\Debug\net5.0\ConversorTemperaturas.dll
+C:\Users\Samsung\ConversorTemperaturas\obj\Debug\net5.0\ref\ConversorTemperaturas.dll
+C:\Users\Samsung\ConversorTemperaturas\obj\Debug\net5.0\ConversorTemperaturas.pdb
+C:\Users\Samsung\ConversorTemperaturas\obj\Debug\net5.0\ConversorTemperaturas.genruntimeconfig.cache
